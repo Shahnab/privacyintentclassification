@@ -5,9 +5,9 @@ st. set_page_config(layout="wide")
 
 st.sidebar.image("https://cdn-icons-png.flaticon.com/512/4104/4104799.png", width=100)
 st.sidebar.subheader("About Privacy Intent Classifier")
-st.sidebar.markdown("###### Understanding privacy policies is crucial for users as it empowers them to learn about the information that matters to them.")
-st.sidebar.markdown("###### In this work, PolicyIE, an English corpus consisting of 5,250 intent and 11,788 slot annotations spanning 31 privacy policies of websites and mobile applications.")
-st.sidebar.markdown("###### PolicyIE corpus is a challenging real-world benchmark with limited labeled examples reflecting the cost of collecting large-scale annotations from domain experts")
+st.sidebar.markdown("####### Understanding privacy policies is crucial for users as it empowers them to learn about the information that matters to them.")
+st.sidebar.markdown("####### In this work, PolicyIE, an English corpus consisting of 5,250 intent and 11,788 slot annotations spanning 31 privacy policies of websites and mobile applications.")
+st.sidebar.markdown("####### PolicyIE corpus is a challenging real-world benchmark with limited labeled examples reflecting the cost of collecting large-scale annotations from domain experts")
 
 
 st.subheader("Types of Intents Classified: ")
