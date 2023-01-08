@@ -23,4 +23,4 @@ st.sidebar.caption("Read more- [link](https://aclanthology.org/2021.acl-long.340
 st.sidebar.caption("App by </Shahnab>")
 
 # embed streamlit docs in a streamlit app
-st.components.v1.iframe("https://shad0ws-privacyintentclassifier.hf.space", width=1100, height=650, align='left', scrolling=True)
+st.components.v1.iframe("https://shad0ws-privacyintentclassifier.hf.space", width=1100, height=650, scrolling=True)
