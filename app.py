@@ -16,7 +16,7 @@ st.sidebar.markdown("###### 2. Data Sharing/Disclosure: What, why and how user i
 st.sidebar.markdown("###### 3. Data Storage/Retention: How long and where user information will be stored")
 st.sidebar.markdown("###### 4. Data Security/Protection: Protection measures for user information")
 st.sidebar.markdown("###### 5. Other: Other privacy practices that do not fall into the above four categories")
-
+st.sidebar.caption("How to Use the App- [link](https://youtu.be/H2O3C3TOXaE)")
 
 st.sidebar.caption("Model is trained on PolicyIE dataset")
 st.sidebar.caption("Read more- [link](https://aclanthology.org/2021.acl-long.340.pdf)")
