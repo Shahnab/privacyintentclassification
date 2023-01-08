@@ -22,6 +22,5 @@ st.sidebar.caption("Model is trained on PolicyIE dataset")
 st.sidebar.caption("Read more- [link](https://aclanthology.org/2021.acl-long.340.pdf)")
 st.sidebar.caption("App by </Shahnab>")
 
-st.subheader("Privacy Intent Classification Engine")
 # embed streamlit docs in a streamlit app
 st.components.v1.iframe("https://shad0ws-privacyintentclassifier.hf.space", width=1100, height=650, scrolling=True)
