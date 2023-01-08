@@ -11,11 +11,11 @@ st.sidebar.markdown("###### PolicyIE corpus is a challenging real-world benchmar
 
 
 st.subheader("Types of Intents Classified: ")
-st.subheader("1. Data Collection/Usage: What, why and how user information is collected")
-st.subheader("2. Data Sharing/Disclosure: What, why and how user information is shared with or collected by third parties")
-st.subheader("3. Data Storage/Retention: How long and where user information will be stored")
-st.subheader("4. Data Security/Protection: Protection measures for user information")
-st.subheader("4. Other: Other privacy practices that do not fall into the above four categories")
+st.markdown("###### 1. Data Collection/Usage: What, why and how user information is collected")
+st.markdown("###### 2. Data Sharing/Disclosure: What, why and how user information is shared with or collected by third parties")
+st.markdown("###### 3. Data Storage/Retention: How long and where user information will be stored")
+st.markdown("###### 4. Data Security/Protection: Protection measures for user information")
+st.markdown("###### 5. Other: Other privacy practices that do not fall into the above four categories")
 
 
 st.sidebar.caption("Model is trained on PolicyIE dataset")
